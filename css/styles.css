@@ -1,31 +1,29 @@
 body {
-    margin-top: auto;
-    font-family: Times;
+  margin-top: auto;
+  font-family: Times;
+}
 
-  }/* header */
 .header {
   position: absolute;
   left: 0;
   top: 0;
   margin-top: 0;
   width: 100%;
-  }
+}
 
 .suscribe {
   position: relative;
   margin-top: 40%;
   text-align: center;
   font-family: 'Pacifico', cursive;
-  }
+}
 
 p.suscribe {
   display: block;
   text-align: center;
   font-size: 25px;
   margin-bottom: -3px;
-
-
-  }
+}
 
 input {
   font-size: 15px;
@@ -35,34 +33,30 @@ input {
   border-style: ridge;
   border-color: black;
   padding-right: 10px;
-  }
+}
 
 button{
   background-color: #DBA6C2;
   display: inline-block;
-  /* border-radius: 10%; */
-  
   border: none;
   color: white;
   font-size: 12px;
-    padding-top: 4px;
-padding-bottom: 4px;
-padding-left: 15px;
-padding-right: 15px;
-  }
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
 
 .icons{
   color:#DBA6C2;
-text-align: center;
+  text-align: center;
 }
 
 i{
   font-size: 25px;
   color:#DBA6C2;
-text-align: center;
-margin-left: 10px;
-
-  /* float: left; */
+  text-align: center;
+  margin-left: 10px;
   margin-top: 10px;
 }
 
@@ -71,7 +65,6 @@ margin-left: 10px;
   top: 50%;
   margin-top: 10%;
   text-align: center;
-
   width: 100%;
   text-align: center;
   font-size: 12px;
@@ -86,8 +79,8 @@ a{
   p.suscribe {
     display: inline-block;
     margin-top: none;
+  }
 
-    }
   input{
     display: inline-block;
   }
@@ -99,7 +92,6 @@ a{
 
   div.container{
     width: 100%;
-
   }
 
   .suscribe {
@@ -108,13 +100,11 @@ a{
     text-align: center;
     font-family: 'Pacifico', cursive;
     }
-  div.footer {
 
+  div.footer {
     bottom: 0px;
     left: 0px;
     width: 100%;
     text-align: center;
-    }
-
-
+  }
 }
