@@ -45,6 +45,7 @@ button{
   padding-bottom: 4px;
   padding-left: 15px;
   padding-right: 15px;
+  border-radius: 6px;
 }
 
 .icons{
